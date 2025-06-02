@@ -32,7 +32,6 @@ An interactive, scroll-animated 3D showcase of the iPhone 15, built with **React
 - 📜 **Scroll Animations** – Smooth transitions triggered by user scroll
 - 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile
 - ⚡ **Fast Performance** – Vite-powered development and build process
-- 🛡 **Monitoring** – Real-time error tracking via Sentry
 
 ---
 
