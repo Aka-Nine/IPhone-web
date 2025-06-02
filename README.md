@@ -22,8 +22,7 @@ An interactive, scroll-animated 3D showcase of the iPhone 15, built with **React
 - **GSAP** – Scroll-triggered animations
 - **Tailwind CSS** – Responsive styling
 - **Vite** – Fast bundler for development and builds
-- **GitHub Pages** – Deployment
-- **Sentry** – Real-time error monitoring and performance tracking
+- **Vercel** – Deployment
 
 ---
 
