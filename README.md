@@ -39,8 +39,8 @@ An interactive, scroll-animated 3D showcase of the iPhone 15, built with **React
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/iphone15-3d-experience.git
-cd iphone15-3d-experience
+git clone https://github.com/Aka-Nine/IPhone-web.git
+cd Iphone-web
 
 # Install dependencies
 npm install
