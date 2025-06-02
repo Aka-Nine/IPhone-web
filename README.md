@@ -62,9 +62,12 @@ npm run build
 npm run deploy
 Ensure your vite.config.js includes the correct base path and gh-pages is configured in package.json.
 
+```
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/f9bd6bf2-d3e3-4f45-92fe-d83f903897e9)
 
+
+---
 
 
 
