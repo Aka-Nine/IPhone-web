@@ -75,7 +75,5 @@ Ensure your vite.config.js includes the correct base path and gh-pages is config
 Harsh Yadav
 LinkedIn
 
-📄 License
-This project is licensed under the MIT License.
 
 Built with ❤️ using React, Three.js, and a passion for 3D web experiences.
